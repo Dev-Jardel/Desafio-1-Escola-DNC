@@ -1,7 +1,7 @@
 # Desafio 1 - Escola-DNC
 Este é o primeiro desafio prático que estou fazendo na Escola DNC
 
-Link do site: 
+Link do site: https://projetoarquiteturadnc1108.netlify.app/
 
 Link da planilha: https://docs.google.com/spreadsheets/d/1bK6V8I6EIgrT3NpU1vjkaeyoHoIy5N2vJEOk1zirhx0/edit?gid=0#gid=0
 
